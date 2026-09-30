@@ -1,7 +1,28 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+mcp_settings.json
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
 *.py[codz]
 *$py.class
+*.db
+.env
+*.env
 
 # C extensions
 *.so
